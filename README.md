@@ -19,8 +19,10 @@ Even with the advanced in technology in today's society, many patients find out 
 
 ### Resources (found in this folder) @@havent update@@
 
-- [Original Dataset](https://github.com/Georgetxm/SC1015/blob/main/train.csv)
-- [Cleaned Dataset](https://github.com/Georgetxm/SC1015/blob/main/train_cleaned.csv)
+- [Original Dataset](https://github.com/Georgetxm/SC1015/blob/main/breast-cancer.csv)
+- [Death Dataset](https://github.com/Georgetxm/SC1015/blob/main/death.csv)
+- [Recovered Dataset](https://github.com/Georgetxm/SC1015/blob/main/recovered.csv)
+- [Under Treatment Dataset](https://github.com/Georgetxm/SC1015/blob/main/under_treatment.csv)
 - [Presentation Slides](https://github.com/Georgetxm/SC1015/blob/main/SC1015-MiniProj.pdf)
 - Video can be assessed from this [link](https://www.youtube.com/watch?v=ZABvxkkY4mM)
 
