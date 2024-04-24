@@ -1,7 +1,7 @@
 # SC1015 Mini-Project - Determining Breast Cancer on tumors &amp; Rate of Survivability
 
 ## About 
-This is the mini project for SC1015 - Introduction to Data Science and Artificial Intelligence (DSAI) which focuses on data of breast cancer from both [breast-cancer-wisconsin](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) and [breast-cancer](https://www.kaggle.com/datasets/homayoonkhadivi/breast-cancer-datasets)
+This is the mini project for SC1015 - Introduction to Data Science and Artificial Intelligence (DSAI) which focuses on data of breast cancer from both [breast-cancer-wisconsin](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) and [died-recovered-under treatment](https://www.kaggle.com/datasets/homayoonkhadivi/breast-cancer-datasets)
 
 #### Members
 - Ng Hoe Ping
