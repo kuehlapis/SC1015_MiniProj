@@ -9,15 +9,15 @@ This is the mini project for SC1015 - Introduction to Data Science and Artificia
 - Edmund Yeo
 
 
-### Problem Motivation
+## Problem Motivation
 Even with the advanced in technology in today's society, many patients find out that they are diagnosed with breast cancer too late. In hope of getting patients to start treatment early for early-staged breast cancer, it is important for them to do self-examination to detect for breast cancer early. Therefore, they would expect these features estimates to be as precise as possible. Inaccurate estimates can lead to panic or fear in patient.
 
-### Problem Definition
+## Problem Definition
 - Are we able to predict if a breast tumor is benign or malignant based on its features?
 - Can we predict the survivability of someone with a malignant breast tumor based on their lifestyle?
 - Which model would be the best to predict it?
 
-### Resources (found in this folder) @@havent update Presentationslides + Video@@
+## Resources (found in this folder) @@havent update Presentationslides + Video@@
 
 - [Original Dataset](https://github.com/bobesaur/SC1015_MiniProj/blob/main/breast-cancer.csv)
 - [Death Dataset](https://github.com/bobesaur/SC1015_MiniProj/blob/main/death.csv)
@@ -26,18 +26,29 @@ Even with the advanced in technology in today's society, many patients find out 
 - [Presentation Slides](https://github.com/bobesaur/SC1015_MiniProj/blob/main/SC1015-MiniProj.pdf)
 - Video can be assessed from this [link](https://www.youtube.com/watch?v=ZABvxkkY4mM)
 
-### Walk-Through @@havent update@@
-1. [Data Preparation and Cleaning]
-    - Outliers (Age/Ratings/Latitude/Longitude)
-    - Empty/NaN/Null Data
-    - Column Names were all renamed to Camel Case
 
-2. [Exploratory Data Analysis, Data-Driven Insights & Recommendations]
-    - Distribution/Correlation of Numeric Columns
-    - Plotting of orders geographically with a heatmap
-    - Using a line chart to observe the average delivery time throughout the day.
-    - Feature Engineering - Distance, Speed
-   
+## Walk-Through @@havent update@@
+<h3>1. Data Preparation and Cleaning</h3>
+<h4>[All Datasets]</h4>
+
+- Removed rows with NaN/NULL spaces that will affect the machine learning accuracy
+- Removed unnecessary parameters like "education" and "patient ID"
+- Combined "death.csv" and "recovered.csv" into a single variable in the code for machine learning
+
+<h3>2. "original"</h3>
+<h4>[variable named from "breast-cancer".csv]</h4>
+
+- Separated into 2 variables: "meanbreast" and "worstbreast"
+- Find parameters in both variables that will predict classifications Malignant("M") or Bengin ("B")
+- Visualisation in Histogram/Boxplot/Violinplot
+
+<h3>2. "survival"</h3>
+<h4>[Combined variable named from "death.csv" and "recovered.csv"]</h4>
+
+- Separated into 2 variables: "meanbreast" and "worstbreast"
+- Find parameters in both variables that will predict classifications Malignant("M") or Bengin ("B")
+- Visualisation in Histogram/Boxplot/Violinplot
+
 3. [Machine Learning Techniques to solve the problem]
 4. [Machine Learning with engineered feature: distance]
     - Predicting Time Taken
