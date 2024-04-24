@@ -17,7 +17,7 @@ Even with the advanced in technology in today's society, many patients find out 
 - Can we predict the survivability of someone with a malignant breast tumor based on their lifestyle?
 - Which model would be the best to predict it?
 
-### Resources (found in this folder) @@havent update@@
+### Resources (found in this folder) @@havent update Presentationslides + Video@@
 
 - [Original Dataset](https://github.com/bobesaur/SC1015_MiniProj/blob/main/breast-cancer.csv)
 - [Death Dataset](https://github.com/bobesaur/SC1015_MiniProj/blob/main/death.csv)
