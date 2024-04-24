@@ -5,8 +5,8 @@ This is the mini project for SC1015 - Introduction to Data Science and Artificia
 
 #### Members
 - Ng Hoe Ping
-- Yao Sheng
-- Edmund Yeo
+- Ong Yao Sheng
+- Edmund Yeo Zi Long
 
 
 ## Problem Motivation
