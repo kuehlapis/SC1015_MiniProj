@@ -42,12 +42,12 @@ Even with the advanced in technology in today's society, many patients find out 
 - Find parameters in both variables that will predict classifications Malignant("M") or Bengin ("B")
 - Visualisation in Histogram/Boxplot/Violinplot
 
-<h3>2. "survival"</h3>
+<h3>3. "survival"</h3>
 <h4>[Combined variable named from "death.csv" and "recovered.csv"]</h4>
 
 - ???
 
-<h3>[Machine Learning Techniques to solve the problem]</h3>
+<h3>4. Machine Learning Techniques to solve the problem</h3>
 
 - Decision Tree
 - RandomForestClassifier
