@@ -45,32 +45,22 @@ Even with the advanced in technology in today's society, many patients find out 
 <h3>3. "survival"</h3>
 <h4>[Combined variable named from "death.csv" and "recovered.csv"]</h4>
 
-- ???
+- 
 
 <h3>4. Machine Learning Techniques to solve the problem</h3>
 
 - Decision Tree
 - RandomForestClassifier
-- Logistic Test Score
+- Logistic Regression
 - K-Nearest Neighbours (KNN)
 - Support Vector Machine (SVM)
 - Gaussian Naive Bayes (NB)
 - Keras Neural Network
 
 
-    - Predicting Time Taken
-    - Using Numerical Data
-        - Univariate/Multivariate LinReg
-    - Both categorical and numerical data
-        - ANOVA Test & One-Hot Encoding
-        - Decision Trees
-        - Random Forest
-        - Lasso Regression
-        - XGBoost
-    - Model Evaluation
-        - Results with Engineered Feature (Comparison between the Old & New R^2 and MSE Score) 
-
-    We have 2 notebooks showcase the differences of our models with and without the engineered feature. Please use [4](https://github.com/Georgetxm/SC1015/blob/main/Machine_Learning_V2_w_distanceipynb) to grade us as 3 is merely to showcase our thought process.
+<h3>5. Model Evaluation
+        - Visualisations to identify imbalance data and effectiveness of Machine Learning Techniques
+        - Evaluating with Precision, recall, f1 score.
 
 ### Conclusion
 - We were able to find a strong relation between these 5 features (concave points, area, perimeter, radius, and concavity) and diagnosis of breast tumor (benign or malignant).
@@ -91,10 +81,11 @@ Even with the advanced in technology in today's society, many patients find out 
 - From our findings, we can suggest that individuals can self-examine by looking at the 5 features mentioned earlier (concave points, area, perimeter, radius, and concavity), if suspected to be a malignant tumor, they can go to the hospital to get it checked and diagnosed early, if positive. Lastly, those with malignant tumor is able to lower the possibility of dying by having an active lifestyle and eating healthily, as well as reduce or quit smoking.
 
 ### Key Learning Points
-1. input
-2. input
-3. input
-4. Implementation of K-Nearest Neighbors Classifier(KNN), Support Vector Classifier(SVC), Random Forest Classifier, Gaussian Naive Bayes, and Synthetic Minority Overlapaping Technique(SMOTE)
+1. Concepts of different evluation methods (Precision, Recall and F1 Score).
+2. Identifying false accuracy with overfitting and imbalance data.
+3. Handling overfitting and imbalance data.
+4. Implementation of K-Nearest Neighbors Classifier(KNN), Support Vector Classifier(SVC), Random Forest Classifier, Gaussian Naive Bayes, Logisitic Rgression and Synthetic Minority Overlapaping Technique(SMOTE)
+5. Neural Network Model (Multilayer Perceptron).
 
 ### Contributors
 - Ng Hoe Ping: Data Cleaning, EDA, Feature Engineering, Machine Learning, Data Driven Insights from EDA and ML, Presentation Slides, Video
@@ -110,4 +101,4 @@ Even with the advanced in technology in today's society, many patients find out 
 6. [Random Forest Regression](https://towardsdatascience.com/random-forest-regression-5f605132d19d)
 7. [Lasso Regression](https://www.mygreatlearning.com/blog/understanding-of-lasso-regression/#:~:text=Lasso%20regression%20is%20a%20regularization,i.e.%20models%20with%20fewer%20parameters)
 8. [Introduction to XGBoost Algorithm](https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/)
-9. [XGBoost Algorithm](https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d)
+9. [SMOTE Application](https://www.analyticsvidhya.com/blog/2020/10/overcoming-class-imbalance-using-smote-techniques/)
