@@ -59,7 +59,8 @@ Even with the advanced in technology in today's society, many patients find out 
 
 
 <h3>5. Model Evaluation</h3>
-- Visualisations to identify imbalance data and effectiveness of Machine Learning Techniques
+
+- Visualisations to identify imbalance data and effectiveness of Machine Learning Techniques.
 - Evaluating with Precision, recall, f1 score.
 
 ### Conclusion
