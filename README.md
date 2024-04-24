@@ -63,7 +63,7 @@ Even with the advanced in technology in today's society, many patients find out 
 - Visualisations to identify imbalance data and effectiveness of Machine Learning Techniques.
 - Evaluating with Precision, recall, f1 score.
 
-### Conclusion
+## Conclusion
 - We were able to find a strong relation between these 5 features (concave points, area, perimeter, radius, and concavity) and diagnosis of breast tumor (benign or malignant).
 - Factors that could **greatly** affect **Survivability** of malignant tumor patient includes:
     - Numerical Columns 
