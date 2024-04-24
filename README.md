@@ -45,12 +45,19 @@ Even with the advanced in technology in today's society, many patients find out 
 <h3>2. "survival"</h3>
 <h4>[Combined variable named from "death.csv" and "recovered.csv"]</h4>
 
-- Separated into 2 variables: "meanbreast" and "worstbreast"
-- Find parameters in both variables that will predict classifications Malignant("M") or Bengin ("B")
-- Visualisation in Histogram/Boxplot/Violinplot
+- ???
 
-3. [Machine Learning Techniques to solve the problem]
-4. [Machine Learning with engineered feature: distance]
+<h3>[Machine Learning Techniques to solve the problem]</h3>
+
+- Decision Tree
+- RandomForestClassifier
+- Logistic Test Score
+- K-Nearest Neighbours (KNN)
+- Support Vector Machine (SVM)
+- Gaussian Naive Bayes (NB)
+- Keras Neural Network
+
+
     - Predicting Time Taken
     - Using Numerical Data
         - Univariate/Multivariate LinReg
