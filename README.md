@@ -27,7 +27,7 @@ Even with the advanced in technology in today's society, many patients find out 
 - Video can be assessed from this [link](https://youtu.be/NGaIxfxqTGs)
 
 
-## Walk-Through @@havent update@@
+## Walk-Through 
 <h3>1. Data Preparation and Cleaning</h3>
 <h4>[All Datasets]</h4>
 
@@ -88,7 +88,7 @@ Even with the advanced in technology in today's society, many patients find out 
 1. Concepts of different evluation methods (Precision, Recall and F1 Score).
 2. Identifying false accuracy with overfitting and imbalance data.
 3. Handling overfitting and imbalance data.
-4. Implementation of K-Nearest Neighbors Classifier(KNN), Support Vector Classifier(SVC), Random Forest Classifier, Gaussian Naive Bayes, Logisitic Rgression and Synthetic Minority Overlapaping Technique(SMOTE)
+4. Implementation of K-Nearest Neighbors Classifier(KNN), Support Vector Classifier(SVC), Random Forest Classifier, Gaussian Naive Bayes, Logistic Regression and Synthetic Minority Overlapaping Technique(SMOTE)
 5. Neural Network Model (Multilayer Perceptron).
 
 ### Contributors
@@ -96,13 +96,14 @@ Even with the advanced in technology in today's society, many patients find out 
 - Yao Sheng: Data Cleaning, EDA, Feature Engineering, Machine Learning, Data Driven Insights from EDA and ML, Presentation Slides, Video
 - Edmund Yeo: Data Cleaning, EDA, Feature Engineering, Machine Learning, Data Driven Insights from EDA and ML, Presentation Slides, Video
 
-### References @@havent update@@
-1. [Data-to-Viz](https://www.data-to-viz.com/)
-2. [Outliers: Keep or Drop](https://towardsdatascience.com/outliers-keep-or-drop-892b599b8ab6)
-3. [Guidelines for removing outliers](https://statisticsbyjim.com/basics/remove-outliers/)
-4. [Regularisation in Machine Learning](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a)
-5. [L1, L2 Norm and Regularisation](https://www.analyticssteps.com/blogs/l2-and-l1-regularization-machine-learning)
-6. [Random Forest Regression](https://towardsdatascience.com/random-forest-regression-5f605132d19d)
+### References 
+1. [Guidelines for removing outliers](https://santoshraviteja.medium.com/how-to-remove-outliers-using-python-ea52877f5a78)
+2. [Random Forest Regression](https://towardsdatascience.com/random-forest-regression-5f605132d19d)
+3. [K-Nearest Neighbors Classifier(KNN)](https://www.digitalocean.com/community/tutorials/k-nearest-neighbors-knn-in-python)
+4. [Support Vector Classifier(SVC)](https://www.datacamp.com/tutorial/svm-classification-scikit-learn-python)
+5. [Gaussian Naive Bayes](https://www.analyticsvidhya.com/blog/2021/11/implementation-of-gaussian-naive-bayes-in-python-sklearn/)
+6. [Multilayer Perceptron](https://towardsdatascience.com/multilayer-perceptron-explained-with-a-real-life-example-and-python-code-sentiment-analysis-cb408ee93141)
 7. [Logisitic Regression](https://medium.com/@curryrowan/simplified-logistic-regression-classification-with-categorical-variables-in-python-1ce50c4b137)
-8. [Imbalance data: Methods to fix](https://www.turintech.ai/what-is-imbalanced-data-and-how-to-handle-it/)
-9. [SMOTE Application](https://www.analyticsvidhya.com/blog/2020/10/overcoming-class-imbalance-using-smote-techniques/)
+8. [Model Evaluation and Metrics](https://muhammaddawoodaslam.medium.com/model-evaluation-and-metrics-in-data-science-1204c2004555)
+9. [Imbalance data: Methods to fix](https://www.turintech.ai/what-is-imbalanced-data-and-how-to-handle-it/)
+10. [SMOTE Application](https://www.analyticsvidhya.com/blog/2020/10/overcoming-class-imbalance-using-smote-techniques/)
