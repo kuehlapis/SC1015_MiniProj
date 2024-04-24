@@ -58,9 +58,9 @@ Even with the advanced in technology in today's society, many patients find out 
 - Keras Neural Network
 
 
-<h3>5. Model Evaluation
-        - Visualisations to identify imbalance data and effectiveness of Machine Learning Techniques
-        - Evaluating with Precision, recall, f1 score.
+<h3>5. Model Evaluation</h3>
+- Visualisations to identify imbalance data and effectiveness of Machine Learning Techniques
+- Evaluating with Precision, recall, f1 score.
 
 ### Conclusion
 - We were able to find a strong relation between these 5 features (concave points, area, perimeter, radius, and concavity) and diagnosis of breast tumor (benign or malignant).
