@@ -27,19 +27,19 @@ Even with the advanced in technology in today's society, many patients find out 
 - Video can be assessed from this [link](https://www.youtube.com/watch?v=ZABvxkkY4mM)
 
 ### Walk-Through @@havent update@@
-1. [Data Preparation and Cleaning](https://github.com/Georgetxm/SC1015/blob/main/Data_Preparation_Cleaning.ipynb)
+1. [Data Preparation and Cleaning]
     - Outliers (Age/Ratings/Latitude/Longitude)
     - Empty/NaN/Null Data
     - Column Names were all renamed to Camel Case
 
-2. [Exploratory Data Analysis, Data-Driven Insights & Recommendations](https://github.com/Georgetxm/SC1015/blob/main/Exploratory_Data_Analysis.ipynb)
+2. [Exploratory Data Analysis, Data-Driven Insights & Recommendations]
     - Distribution/Correlation of Numeric Columns
     - Plotting of orders geographically with a heatmap
     - Using a line chart to observe the average delivery time throughout the day.
     - Feature Engineering - Distance, Speed
    
-3. [Machine Learning Techniques to solve the problem](https://github.com/Georgetxm/SC1015/blob/main/Machine_Learning_without_distance.ipynb)
-4. [Machine Learning with engineered feature: distance](https://github.com/Georgetxm/SC1015/blob/main/Machine_Learning_V2_w_distanceipynb)
+3. [Machine Learning Techniques to solve the problem]
+4. [Machine Learning with engineered feature: distance]
     - Predicting Time Taken
     - Using Numerical Data
         - Univariate/Multivariate LinReg
