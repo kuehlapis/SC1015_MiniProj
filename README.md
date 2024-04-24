@@ -107,3 +107,4 @@ Even with the advanced in technology in today's society, many patients find out 
 8. [Model Evaluation and Metrics](https://muhammaddawoodaslam.medium.com/model-evaluation-and-metrics-in-data-science-1204c2004555)
 9. [Imbalance data: Methods to fix](https://www.turintech.ai/what-is-imbalanced-data-and-how-to-handle-it/)
 10. [SMOTE Application](https://www.analyticsvidhya.com/blog/2020/10/overcoming-class-imbalance-using-smote-techniques/)
+11. [Choosing the Best Machine Learning Classification Model](https://www.mathworks.com/campaigns/offers/next/choosing-the-best-machine-learning-classification-model-and-avoiding-overfitting.html)
