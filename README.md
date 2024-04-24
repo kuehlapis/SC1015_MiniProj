@@ -22,7 +22,7 @@ Even with the advanced in technology in today's society, many patients find out 
 - [Original Dataset](https://github.com/bobesaur/SC1015_MiniProj/blob/main/breast-cancer.csv)
 - [Death Dataset](https://github.com/bobesaur/SC1015_MiniProj/blob/main/death.csv)
 - [Recovered Dataset](https://github.com/bobesaur/SC1015_MiniProj/blob/main/recovered.csv)
-- [Under Treatment Dataset](https://github.com/bobesaur/SC1015_MiniProj/blob/main/under_treatment.csv)
+- [Under Treatment Dataset](https://github.com/bobesaur/SC1015_MiniProj/blob/main/under treatment.csv)
 - [Presentation Slides](https://github.com/bobesaur/SC1015_MiniProj/blob/main/SC1015-MiniProj.pdf)
 - Video can be assessed from this [link](https://www.youtube.com/watch?v=ZABvxkkY4mM)
 
