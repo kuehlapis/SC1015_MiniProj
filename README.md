@@ -104,5 +104,5 @@ Even with the advanced in technology in today's society, many patients find out 
 5. [L1, L2 Norm and Regularisation](https://www.analyticssteps.com/blogs/l2-and-l1-regularization-machine-learning)
 6. [Random Forest Regression](https://towardsdatascience.com/random-forest-regression-5f605132d19d)
 7. [Lasso Regression](https://www.mygreatlearning.com/blog/understanding-of-lasso-regression/#:~:text=Lasso%20regression%20is%20a%20regularization,i.e.%20models%20with%20fewer%20parameters)
-8. [Introduction to XGBoost Algorithm](https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/)
+8. [Imbalance data: Methods to fix](https://www.turintech.ai/what-is-imbalanced-data-and-how-to-handle-it/)
 9. [SMOTE Application](https://www.analyticsvidhya.com/blog/2020/10/overcoming-class-imbalance-using-smote-techniques/)
