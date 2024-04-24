@@ -17,13 +17,13 @@ Even with the advanced in technology in today's society, many patients find out 
 - Can we predict the survivability of someone with a malignant breast tumor based on their lifestyle?
 - Which model would be the best to predict it?
 
-## Resources (found in this folder) @@havent update Presentationslides + Video@@
+## Resources (found in this folder)
 
 - [Original Dataset](https://github.com/bobesaur/SC1015_MiniProj/blob/main/breast-cancer.csv)
 - [Death Dataset](https://github.com/bobesaur/SC1015_MiniProj/blob/main/death.csv)
 - [Recovered Dataset](https://github.com/bobesaur/SC1015_MiniProj/blob/main/recovered.csv)
 - [Under Treatment Dataset](https://github.com/bobesaur/SC1015_MiniProj/blob/main/under%20treatment.csv)
-- [Presentation Slides](https://github.com/bobesaur/SC1015_MiniProj/blob/main/SC1015-MiniProj.pdf)
+- [Presentation Slides](https://github.com/bobesaur/SC1015_MiniProj/blob/main/SC1015%20Mini-Project%20Slides.pdf)
 - Video can be assessed from this [link](https://youtu.be/NGaIxfxqTGs)
 
 
@@ -45,7 +45,10 @@ Even with the advanced in technology in today's society, many patients find out 
 <h3>3. "survival"</h3>
 <h4>[Combined variable named from "death.csv" and "recovered.csv"]</h4>
 
-- 
+- Clean data by only focusing on relevant parameters to our problem, as well as remove any outliers
+- One-hot encoding, converted the variables under "condition" from "death" to "1", and "recovered" to "0".
+- Visualisation in Histogram/Correlation Heatmap
+- Implementation of different classification algorithms to find the highest accuracy score
 
 <h3>4. Machine Learning Techniques to solve the problem</h3>
 
