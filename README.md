@@ -13,8 +13,8 @@ This is the mini project for SC1015 - Introduction to Data Science and Artificia
 Even with the advanced in technology in today's society, many patients find out that they are diagnosed with breast cancer too late. In hope of getting patients to start treatment early for early-staged breast cancer, it is important for them to do self-examination to detect for breast cancer early. Therefore, they would expect these features estimates to be as precise as possible. Inaccurate estimates can lead to panic or fear in patient.
 
 ## Problem Definition
-- Are we able to predict if a breast tumor is benign or malignant based on its features?
-- Can we predict the survivability of someone with a malignant breast tumor based on their lifestyle?
+- Are we able to predict if a breast tumor is malignant or benign based on its features?
+- Can we predict the survivability of someone with a malignant breast tumor based on their characteristic and habits?
 - Which model would be the best to predict it?
 
 ## Resources (found in this folder)
